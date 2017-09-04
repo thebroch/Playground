@@ -2,5 +2,5 @@ fruits = ['Apple', 'Mango', 'Peach', 'Orange']
 
 fruits.insert(1, 'Banana')
 
-print(fruits)
+print(fruits[0])
 
